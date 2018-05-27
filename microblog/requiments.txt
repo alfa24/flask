@@ -1,2 +1,5 @@
 Flask
 Flask-WTF
+Flask-SQLAlchemy
+flask_migrate
+flask_script

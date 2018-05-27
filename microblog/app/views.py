@@ -1,7 +1,7 @@
 from flask import render_template, flash, redirect
 
-from microblog.app import app
-from microblog.app.forms import LoginForm
+from app import app
+from app.forms import LoginForm
 
 
 @app.route('/')
