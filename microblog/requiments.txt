@@ -3,3 +3,5 @@ Flask-WTF
 Flask-SQLAlchemy
 flask_migrate
 flask_script
+Flask-Login
+Flask-OpenID

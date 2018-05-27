@@ -1,4 +1,5 @@
-Изучаем Flask. Делаем простенький микроблог по инструкции https://habr.com/post/193242/
+Изучаем Flask. Делаем простенький микроблог по инструкции
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 next:
-https://habr.com/post/196810/
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vi-profile-page-and-avatars
