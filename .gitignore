@@ -1,3 +1,5 @@
 
 /.venv/
 .idea
+/microblog/app/logs/
+/microblog/logs/
