@@ -5,3 +5,4 @@ flask_migrate
 flask_script
 Flask-Login
 flask-bootstrap
+flask-moment
