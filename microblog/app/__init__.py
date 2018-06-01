@@ -2,6 +2,7 @@ import os
 import logging
 from logging.handlers import RotatingFileHandler
 from flask import Flask
+from flask_bootstrap import Bootstrap
 from flask_login import LoginManager
 from flask_openid import OpenID
 from flask_sqlalchemy import SQLAlchemy
@@ -20,6 +21,7 @@ login = LoginManager()
 login.login_view = 'login'
 login.init_app(app)
 oid = OpenID(app, os.path.join(basedir, 'tmp'))
+bootstrap =Bootstrap(app)
 from app import views, models, errors
 
 if not app.debug:
