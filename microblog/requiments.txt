@@ -6,3 +6,4 @@ flask_script
 Flask-Login
 flask-bootstrap
 flask-moment
+flask-babel

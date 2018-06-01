@@ -16,3 +16,5 @@ OPENID_PROVIDERS = [
     { 'name': 'MyOpenID', 'url': 'https://www.myopenid.com' }]
 
 POSTS_PER_PAGE = 3
+
+LANGUAGES = ['ru', 'ru']
